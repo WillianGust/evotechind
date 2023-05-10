@@ -8272,6 +8272,17 @@ textarea.form-control-lg {
 .rounded-circle {
   border-radius: 30% !important;
 }
+div.img-logo-gws{
+  justify-items: center;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  gap: 20px;
+  border-radius: 30% !important;
+}
+img.img-logo-gws{
+  border-radius: 60% !important;
+}
 .img-fluid-lab-test {
   border-radius: 5% !important;
 }
